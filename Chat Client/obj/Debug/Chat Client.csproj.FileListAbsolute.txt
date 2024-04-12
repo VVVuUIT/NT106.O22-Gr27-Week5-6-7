@@ -1,0 +1,11 @@
+C:\do an\Chat-App-Project\Chat Client\bin\Debug\Chat_Client.exe.config
+C:\do an\Chat-App-Project\Chat Client\bin\Debug\Chat_Client.exe
+C:\do an\Chat-App-Project\Chat Client\bin\Debug\Chat_Client.pdb
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat Client.csproj.AssemblyReference.cache
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat_Client.Form1.resources
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat_Client.FormAbout.resources
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat_Client.Properties.Resources.resources
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat Client.csproj.GenerateResource.cache
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat Client.csproj.CoreCompileInputs.cache
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat_Client.exe
+C:\do an\Chat-App-Project\Chat Client\obj\Debug\Chat_Client.pdb
